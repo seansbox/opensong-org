@@ -1,0 +1,32 @@
+html {
+  font-size: 133% !important;
+}
+
+label.md-nav__title {
+  display: none;
+}
+
+h2 {
+  font-size: 2em !important;
+}
+h3 {
+  font-size: 1.5em !important;
+}
+
+.logo {
+  width: 120px;
+  height: 120px;
+  float: left;
+  margin-right: 0.2em;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.banner {
+  font-size: 24px;
+  line-height: 40px;
+}

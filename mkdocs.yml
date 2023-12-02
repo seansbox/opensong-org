@@ -1,0 +1,41 @@
+site_name: OpenSong
+repo_url: https://github.com/seansbox/opensong-org
+theme:
+  name: "material"
+  icon:
+    logo: material/music-box-multiple-outline
+  font:
+    text: Lato
+  favicon: favicon.ico
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: deep purple
+      accent: deep orange
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: deep purple
+      accent: deep orange
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: deep purple
+      accent: deep orange
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+extra_css:
+  - stylesheets/style.css
+
+markdown_extensions:
+  - admonition
