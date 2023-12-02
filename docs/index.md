@@ -5,6 +5,8 @@
   OpenSong is a free, open-source software application created to manage lyrics, chords, lead sheets, overheads, computer projection, and more.
 </div>
 
+---
+
 ## Features
 
 ### Chords/Lyric Sheets
