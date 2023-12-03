@@ -7,6 +7,8 @@
 
 ---
 
+<div style="float: right"><a href="https://sourceforge.net/projects/opensong/files/latest/download"><img src="https://a.fsdn.com/con/app/sf-download-button" srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x" alt="Download OpenSong" width="276" height="48" /></a></div>
+
 ## Features
 
 ### Chords/Lyric Sheets
@@ -24,6 +26,10 @@
 - Present any combination of songs, scriptures, or loops back-to-back using sets.
 - Fully customize font styles and sizes as well as shadowing and outlining for easy reading against colorful backgrounds.
 - Change the background color or background image to any image file.
+
+---
+
+![](images/screenshot.jpg)
 
 ## Download
 

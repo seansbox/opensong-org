@@ -17,8 +17,8 @@ We would like to expand the website to include the following features, among oth
 
 To contribute to the OpenSong website, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/[your-username]/opensong-website.git`
-2. **Navigate to the Website Directory**: `cd opensong-website`
+1. **Clone the Repository**: `git clone https://github.com/[your-username]/opensong-org.git`
+2. **Navigate to the Website Directory**: `cd opensong-org`
 
 ## Contributing
 
@@ -33,6 +33,8 @@ See our [contributing guidelines](CONTRIBUTING.md) for detailed instructions.
 ## Acknowledgements
 
 Special thanks to all contributors and the OpenSong community for their ongoing support in maintaining and enhancing the website.
+
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
 ---
 
