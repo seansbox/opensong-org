@@ -10,3 +10,5 @@ favicon:
 
 logo:
   convert docs/images/music-box-multiple-outline.png -fill "#7e56c2" -colorize 100% docs/images/logo.png
+
+# https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain-and-the-www-subdomain-variant

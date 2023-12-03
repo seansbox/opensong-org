@@ -2,10 +2,6 @@ html {
   font-size: 133% !important;
 }
 
-label.md-nav__title {
-  display: none;
-}
-
 h2 {
   line-height: 1.1em !important;
   font-size: 2em !important;
