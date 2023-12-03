@@ -1,4 +1,4 @@
-# API
+# OpenSong API
 
 An automation interface for OpenSong to provide access to the main functionality using a REST approach over HTTP and WebSocket. This API is available as of OpenSong 2.0 beta2.
 

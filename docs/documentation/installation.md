@@ -19,4 +19,4 @@ To make your own OpenSong:
 - As of Xojo, setup the Microsoft Office plugin, by copying the file MSOfficeAutomation.rbx located in the directory 'Extras/Office Automation' to the directory 'Plugins'.
 - Compile the source code, placing it in a suitable location.
 - The first time you run OpenSong it will create the necessary folders and settings files. However, you will need to manually add song files and backgrounds to their proper folders.
-- To compile an installer, consult the documentation at [Building an Installer](building-an-installer.md).
+- To compile an installer, consult the documentation at [Building an Installer](../development/building-an-installer.md).

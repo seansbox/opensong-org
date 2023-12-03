@@ -9,7 +9,7 @@ The installer is written using [Inno Setup](http://www.jrsoftware.org/isinfo.ph
 The installer script expects a certain layout of the compiling files. The following instructions explain how to create the folder structure.
 
 - Download and install OpenSong. Be sure to install the features you wish to compile into your installer.
-  - Alternatively, you can download the OpenSong source code and compile it yourself. See the [compiling directions](installation.md) for more information.
+  - Alternatively, you can download the OpenSong source code and compile it yourself. See the [compiling directions](../documentation/installation.md) for more information.
 - Copy the entire installation folder (usually located at *%ProgramFiles%\OpenSong*) to a different location.
 - In your new folder, delete the file entitled unins000.exe.
 - In the same folder, create a new folder called Inno Setup.
