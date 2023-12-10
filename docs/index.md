@@ -1,7 +1,7 @@
 #
 
 <div class="banner clearfix">
-  <img src="images/logo.png" class="logo"/>
+  <img src="public/ico/favicon-120x120.png" class="logo"/>
   OpenSong is a free, open-source software application created to manage lyrics, chords, lead sheets, overheads, computer projection, and more.
 </div>
 
