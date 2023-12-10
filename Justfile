@@ -1,6 +1,9 @@
 _default:
   @just --list
 
+serve:
+  mkdocs serve
+
 favicon:
   convert -size 128x128 canvas:#7e56c2 temp_bg.png
   convert docs/images/music-box-multiple-outline.png -resize 96x96 temp_fg.png
